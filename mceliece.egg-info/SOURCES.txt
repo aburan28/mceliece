@@ -1,0 +1,12 @@
+LICENSE.txt
+MANIFEST.in
+README.rst
+notes.txt
+setup.py
+mceliece/mceliece.pyx
+mceliece.egg-info/PKG-INFO
+mceliece.egg-info/SOURCES.txt
+mceliece.egg-info/dependency_links.txt
+mceliece.egg-info/top_level.txt
+mceliece/tests/__init__.py
+mceliece/tests/tests.py
